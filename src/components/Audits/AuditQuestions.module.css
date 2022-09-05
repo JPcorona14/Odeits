@@ -1,0 +1,17 @@
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-content: center;
+  width: 80%;
+}
+
+.questCont {
+  padding-bottom: 50px;
+}
+
+.optionCont {
+  width: 100%;
+  display: grid;
+  justify-content: end;
+}

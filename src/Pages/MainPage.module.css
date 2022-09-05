@@ -1,0 +1,26 @@
+.page {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .contentStyle {
+    margin-left: 250px;
+  }
+  
+  .logOut {
+    position: fixed;
+    bottom: 25px;
+    left: 50px;
+    width: 150px;
+    height: 35px;
+    background-color: white;
+    color: rgb(38, 33, 72);
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: large;
+  }
+
+  .logOut:hover {
+    opacity: 75%;
+    cursor: pointer;
+  }
